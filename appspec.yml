@@ -2,8 +2,8 @@ version: 0.2
 
 env:
   parameter-store:
-    SONAR_TOKEN: "/my-app/sonar-token"
-    SONAR_URL: "/my-app/sonar-url"
+    SONAR_TOKEN: "/Givson/sonar-token"
+    SONAR_URL: "/my-practice-app/sonar-url"
 
 phases:
   install:
